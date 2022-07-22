@@ -6,4 +6,4 @@ const Budget = () => {
   );
 };
 
-export default Buget;
+export default Budget;
